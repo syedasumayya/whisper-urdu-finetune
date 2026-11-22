@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+accelerate
+peft
+evaluate
+jiwer
+librosa
+soundfile
+torchcodec
+pandas
